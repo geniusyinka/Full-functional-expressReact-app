@@ -15,7 +15,7 @@ const bcrypt = require("bcryptjs"),
 const app: Express = express();
 const port = process.env.PORT || 5000;
 
-//paste ssx instatiation below:
+//paste ssx instantiation below:
 
 
 //login
